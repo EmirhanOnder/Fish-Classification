@@ -28,8 +28,8 @@ The dataset used in this project is hosted on Kaggle and contains images of diff
 
 To run this project, you need the following libraries:
 
-- Python 3.x
-- TensorFlow 2.x
+- Python 
+- TensorFlow 
 - Keras
 - NumPy
 - Pandas
@@ -160,3 +160,7 @@ The project successfully builds and trains an artificial neural network to class
 
 - Explore more complex neural network architectures such as Convolutional Neural Networks (CNNs) for image classification tasks.
 - Experiment with different data augmentation techniques to improve model generalization.
+
+
+Kaggle Link for Notebook:
+https://www.kaggle.com/code/emirhanonder/akbank-project
